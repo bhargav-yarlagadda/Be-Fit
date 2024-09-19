@@ -1,3 +1,5 @@
+
+
 const ExcerciseDetail = () => {
   return (
     <div>

@@ -5,7 +5,7 @@ import Navbar from "./Components/Navbar"
 import Footer from "./Components/Footer"
 const App = () => {
   return (
-    <div  className="h-screen w-screen">
+    <div  className="">
       <Navbar/>
       <Routes>
         <Route path="/" element={<Home/>} ></Route>
